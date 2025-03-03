@@ -115,7 +115,7 @@ export default function Footer() {
             © {currentYear} Michel Schiavo. Todos os direitos reservados.
           </p>
           <p className="text-gray-400 text-sm mt-4 md:mt-0 italic">
-            "{programmingQuote}"
+            &quot;{programmingQuote}&quot;
           </p>
         </motion.div>
       </div>
