@@ -134,7 +134,7 @@ export default function About() {
                       Desenvolvedor Front End
                     </h4>
                     <p className="text-blue-600 font-semibold mb-2">
-                      Schiavo's Consultoria
+                      Schiavo&lsquo;s Consultoria
                     </p>
                     <p className="text-sm text-gray-500 mb-3">
                       Setembro 2023 - Janeiro 2025
