@@ -1,7 +1,37 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
-  "private": true,
+  "name": "michel-schiavo-portfolio",
+  "version": "2.0.0",
+  "description": "Portfolio profissional de Michel Schiavo - Desenvolvedor Frontend especializado em React, Next.js, TypeScript e UI/UX Design",
+  "author": {
+    "name": "Michel Schiavo",
+    "email": "michel_dmc@hotmail.com",
+    "url": "https://portfolio-michelschiavos-projects.vercel.app"
+  },
+  "homepage": "https://portfolio-michelschiavos-projects.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michelschiavo/portfolio"
+  },
+  "bugs": {
+    "url": "https://github.com/michelschiavo/portfolio/issues"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "react",
+    "nextjs",
+    "typescript",
+    "tailwindcss",
+    "ui-ux",
+    "web-development",
+    "responsive-design"
+  ],
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
